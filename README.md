@@ -1,4 +1,4 @@
-# HBnB - AirBnB Clone Project (v1)
+# HBnB - AirBnB Clone Projec
 
 ## Description
 
