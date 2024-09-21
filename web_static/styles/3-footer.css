@@ -1,0 +1,18 @@
+footer {
+  display: flex;
+  border-top: 1px solid #cccccc;
+  height: 60px;
+  width: 100%;
+  background-color: white;
+  align-items: stretch;
+  flex-direction: row;
+  justify-content: center;
+  bottom: 0;
+  position: fixed;
+}
+
+footer p.footer-text {
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
